@@ -83,8 +83,8 @@ print(me.greet())
 **GitHub in numbers**
 
 ```text
-Public repos            3
-Total commits           23
+Public repos            4
+Total commits           16
 Stars earned            0
 Followers               1
 ```
