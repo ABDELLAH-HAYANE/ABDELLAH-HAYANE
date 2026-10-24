@@ -106,7 +106,10 @@ TypeScript              ░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   8 mins                █████████████████████████   100.00 %
+Markdown     2 hrs 18 mins         █████████████████░░░░░░░░   68.45 %
+JSON         40 mins               █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Git Config   15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Other        7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
